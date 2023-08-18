@@ -124,9 +124,14 @@ class ViewController: UIViewController {
                 if let data {
                     
                     let results = try JSONDecoder().decode(Coins.self, from: data)
-
+                    
                     if let _ = self.coinsList {
-                        self.coinsList?.coins += results.coins
+                        if let _ = reachedBottom {
+                            self.coinsList?.coins += results.coins
+                        } else{
+                            self.coinsList = results
+                        }
+                        
                     } else {
                         self.coinsList = results
                     }
