@@ -44,7 +44,7 @@ An iOS application built using UIKit that displays a list of cryptocurrencies wi
 
 ## API Integration
 
-The app fetches data from a cryptocurrency API (e.g., [awesome-list-rpc-nodes-providers]((https://github.com/arddluma/awesome-list-rpc-nodes-providers)) or any other API of your choice). Ensure to configure your API key if needed.
+The app fetches data from a cryptocurrency API (e.g., [awesome-list-rpc-nodes-providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers) or any other API of your choice). Ensure to configure your API key if needed.
 
 ## How It Works
 
