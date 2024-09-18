@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your iOS app:
-
----
-
 # Cryptocurrency Listing
 
 An iOS application built using UIKit that displays a list of cryptocurrencies with essential features like caching, search, infinite scroll, refresh control, and API requests.
