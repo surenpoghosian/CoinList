@@ -30,8 +30,8 @@ An iOS application built using UIKit that displays a list of cryptocurrencies wi
 
 2. Open the project in Xcode:
    ```bash
-   cd cryptocurrency-listing-ios
-   open CryptocurrencyListing.xcodeproj
+   cd CoinList
+   open CoinList.xcodeproj
    ```
 
 3. Install dependencies (if any).
